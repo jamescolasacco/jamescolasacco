@@ -13,9 +13,8 @@
 ### `now`
 
 - prototyping hardware interfaces
-- SELECTing * FROM *
 - chillin
-- designing website pages
+- designing my website pages
 
 <hr style="border: none; height: 1px; background: #444;" />
 
