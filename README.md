@@ -5,33 +5,33 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/theme-dark-grey?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/status-active-black?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 <hr style="border: none; height: 1px; background: #444;" />
 
 ### `now`
 
-- prototyping hardware interfaces  
-- selecting * from *  
-- chillin  
-- designing website pages  
+- prototyping hardware interfaces
+- SELECTing * FROM *
+- chillin
+- designing website pages
 
 <hr style="border: none; height: 1px; background: #444;" />
 
 ### `stack`
 
-- languages: `js` `ts` `python` `c++` `sql`  
-- frameworks: `node` `next.js` `chakra-ui`  
-- hardware: `arduino` `teensy` `flipper zero`  
-- tools: `vscode` `intellij` `clion` `windsurf`  
+- languages: `js` `ts` `python` `c++` `sql`
+- frameworks: `node` `next.js` `chakra-ui`
+- hardware: `arduino` `teensy` `flipper zero`
+- tools: `vscode` `intellij` `clion` `windsurf`
 
 <hr style="border: none; height: 1px; background: #444;" />
 
 ### `projects`
 
-- [FADRS](https://github.com/jamescolasacco/fadrs) — motorized faders, knobs, full daw control  
-- *coming soon*  
+- [FADRS](https://github.com/jamescolasacco/fadrs) — motorized faders, knobs, full daw control
+- *coming soon*
 
 <hr style="border: none; height: 1px; background: #444;" />
 
