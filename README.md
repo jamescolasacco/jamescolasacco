@@ -30,7 +30,7 @@
 ### `projects`
 
 - [FADRS](https://github.com/jamescolasacco/fadrs) — motorized faders, knobs, full daw control
-- *coming soon*
+- [colasac.co](https://github.com/jamescolasacco/colasacco) - my personal portfolio website
 
 <hr style="border: none; height: 1px; background: #444;" />
 
