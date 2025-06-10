@@ -40,7 +40,3 @@
 none
 
 <hr style="border: none; height: 1px; background: #444;" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamescolasacco&show_icons=false&theme=codeSTACKr&hide_title=true&hide=stars,prs,issues,contribs" />
-</p>
