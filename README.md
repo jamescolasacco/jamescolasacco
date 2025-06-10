@@ -1,44 +1,45 @@
 <h1 align="center">james colasacco</h1>
 
 <p align="center">
-  software engineer
-  audio engineer
-  music producer
-  photographer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=software+engineer;audio+engineer;music+producer;photographer" alt="typing" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/theme-dark-grey?style=flat&logo=github" />
+</p>
 
-### now
+<hr style="border: none; height: 1px; background: #444;" />
 
-- prototyping hardware interfaces
-- selecting * from *
-- chillin
-- designing website pages
+### `now`
 
----
+- prototyping hardware interfaces  
+- selecting * from *  
+- chillin  
+- designing website pages  
 
-### stack
+<hr style="border: none; height: 1px; background: #444;" />
 
-- languages: `js` `ts` `python` `c++` `sql`
-- frameworks: `node` `next.js` `chakra-ui`
-- hardware: `arduino` `teensy` `flipper zero`
-- tools: `vscode` `intellij` `clion` `windsurf`
+### `stack`
 
----
+- languages: `js` `ts` `python` `c++` `sql`  
+- frameworks: `node` `next.js` `chakra-ui`  
+- hardware: `arduino` `teensy` `flipper zero`  
+- tools: `vscode` `intellij` `clion` `windsurf`  
 
-### projects
+<hr style="border: none; height: 1px; background: #444;" />
+
+### `projects`
 
 - [FADRS](https://github.com/jamescolasacco/fadrs) — motorized faders, knobs, full daw control  
-- *coming soon*
+- *coming soon*  
 
----
+<hr style="border: none; height: 1px; background: #444;" />
 
-### principles
+### `principles`
 
 none
 
----
+<hr style="border: none; height: 1px; background: #444;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamescolasacco&show_icons=false&theme=codeSTACKr&hide_title=true&hide=stars,prs,issues,contribs" />
