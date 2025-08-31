@@ -12,18 +12,17 @@
 
 ### `now`
 
-- prototyping hardware interfaces
-- chillin
-- designing my website pages
+- taking photos
+- making music
 
 <hr style="border: none; height: 1px; background: #444;" />
 
 ### `stack`
 
-- languages: `js` `ts` `python` `c++` `sql`
-- frameworks: `node` `next.js` `chakra-ui`
-- hardware: `arduino` `teensy` `flipper zero`
-- tools: `vscode` `intellij` `clion` `windsurf`
+- languages: `js` `ts` `python` `java `sql`
+- frameworks: `node` `next.js`
+- hardware: `arduino` `flipper zero` `sdr`
+- tools: `vscode` `intellij` `windsurf`
 
 <hr style="border: none; height: 1px; background: #444;" />
 
