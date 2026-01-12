@@ -10,13 +10,6 @@
 
 <hr style="border: none; height: 1px; background: #444;" />
 
-### `now`
-
-- taking photos
-- making music
-
-<hr style="border: none; height: 1px; background: #444;" />
-
 ### `stack`
 
 - languages: `js` `ts` `python` `java `sql`
@@ -29,11 +22,5 @@
 ### `projects`
 
 - [james.colasac.co](https://james.colasac.co) - my personal portfolio website
-
-<hr style="border: none; height: 1px; background: #444;" />
-
-### `principles`
-
-what
 
 <hr style="border: none; height: 1px; background: #444;" />
