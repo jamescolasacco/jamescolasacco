@@ -12,7 +12,7 @@
 
 ### `stack`
 
-- languages: `js` `ts` `python` `java `sql`
+- languages: `js` `ts` `python` `java` `sql`
 - frameworks: `node` `next.js`
 - hardware: `arduino` `flipper zero` `sdr`
 - tools: `vscode` `intellij` `windsurf`
