@@ -43,4 +43,4 @@ some of my best stuff can’t be public because it includes internal company dat
 ### connect
 - github: https://github.com/jamescolasacco
 - linkedin: https://www.linkedin.com/in/your-link
-- email: james@colasac.co / colasaccojames@gmail.com
+- email: james@colasac.co
