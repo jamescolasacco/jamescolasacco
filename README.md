@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=560&lines=cs+student+%40+northeastern;software+engineering+%2B+hardware+builder;shipping+tools+that+save+time" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/jamescolasacco?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=followers&style=flat" /></a>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=jamescolasacco&style=flat&label=views" alt="views" />
+  </a>
 
 ---
 
