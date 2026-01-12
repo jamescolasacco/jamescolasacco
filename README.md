@@ -40,16 +40,6 @@ some of my best stuff can’t be public because it includes internal company dat
 
 ---
 
-### github stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamescolasacco&show_icons=true&hide_title=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jamescolasacco" />
-</p>
-
----
-
 ### connect
 - github: https://github.com/jamescolasacco
 - linkedin: https://www.linkedin.com/in/your-link
