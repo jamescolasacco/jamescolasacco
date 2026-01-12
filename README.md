@@ -18,7 +18,7 @@
 
 ### stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,java,cpp,postgres,mongodb,aws,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,java,postgres,mongodb,git,linux" />
 </p>
 
 ---
