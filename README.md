@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://komarev.com/ghpvc/?username=your-username&style=flat&label=views" /></a>
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=followers&style=flat" /></a>
+  <a href="https://github.com/jamescolasacco"><img src="https://komarev.com/ghpvc/?username=your-username&style=flat&label=views" /></a>
+  <a href="https://github.com/jamescolasacco?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=followers&style=flat" /></a>
 </p>
 
 ---
