@@ -22,5 +22,6 @@
 ### `projects`
 
 - [james.colasac.co](https://james.colasac.co) - my personal portfolio website
+- [fadrs](https://github.com/jamescolasacco/fadrs) - open-source modular faderboard
 
 <hr style="border: none; height: 1px; background: #444;" />
