@@ -1,8 +1,6 @@
 <h1 align="center">james colasacco</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=560&lines=cs+student+%40+northeastern;software+engineering+%2B+hardware+builder;shipping+tools+that+save+time" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=computer+science+student;full-stack+web+developer;software+%2B+hardware)](https://git.io/typing-svg)
 
 ---
 
