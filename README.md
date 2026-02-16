@@ -25,8 +25,7 @@ hardware + firmware + mappings, aiming for a “studio tool” feel, not a DIY t
 
 - motorized long-throw faders with touch-sensing capabilities
 - teensy controller that allows usb midi and modular configurations
-- goal: hands-on mixing and automation for full DAW immersion without even thinking about the mouse
-- 
+- goal: hands-on mixing and automation for full DAW immersion, similar to old analog consoles
 repo: https://github.com/jamescolasacco/fadrs
 
 ---
